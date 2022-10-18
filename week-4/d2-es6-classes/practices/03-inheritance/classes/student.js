@@ -1,6 +1,8 @@
 const Person = require('./person');
 
-// Your code here
+class Student {
+
+}
 
 /****************************************************************************/
 /******************* DO NOT EDIT CODE BELOW THIS LINE ***********************/
